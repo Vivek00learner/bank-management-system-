@@ -1,2 +1,4 @@
+BANK MANAGEMENT SYSTEM
 
-C:\Users\dell\Pictures\Screenshots
+#this is the Dashboard file 
+file:///C:/Users/dell/Pictures/Screenshots/Dashboard.jpg
